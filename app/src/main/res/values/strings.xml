@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Manger Demo</string>
+    <string name="sponser_lebel">Sponsored</string>
+
+    <string name="retry">Retry Again</string>
+    <string name="connect_internet">Please Connect To Internet</string>
+</resources>

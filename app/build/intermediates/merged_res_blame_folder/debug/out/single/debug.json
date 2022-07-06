@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/layout_ads_nativ_admob_small.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/layout/ads_nativ_admob_small.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/layout_ads_nb_startapp.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/layout/ads_nb_startapp.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/layout_ads_nativ_admob.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/layout/ads_nativ_admob.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/drawable_bg_ad3.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/drawable/bg_ad3.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/layout_installnewappdialog.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/layout/installnewappdialog.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/drawable_ic_rightarrow.png.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/drawable/ic_rightarrow.png"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/drawable_placeholder_photo_gallery.png.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/drawable/placeholder_photo_gallery.png"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/drawable_install_btn.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/drawable/install_btn.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/layout_cust_int.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/layout/cust_int.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/layout_cust_native_banner.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/layout/cust_native_banner.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/layout_cust_native.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/layout/cust_native.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/layout_ads_nativ_appnext.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/layout/ads_nativ_appnext.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/drawable_bg_ad2.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/drawable/bg_ad2.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/drawable_banner.jpg.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/drawable/banner.jpg"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/drawable_default_image.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/drawable/default_image.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/layout_retry_layout.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/layout/retry_layout.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/layout_ads_nb_fb.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/layout/ads_nb_fb.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/layout_ads_nativ_admob_extra_small.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/layout/ads_nativ_admob_extra_small.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/drawable_no_internet.jpg.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/drawable/no_internet.jpg"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/drawable_bg_ad.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/drawable/bg_ad.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/layout_ads_banner_placeholder.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/layout/ads_banner_placeholder.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/layout_ads_nativ_startapp.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/layout/ads_nativ_startapp.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/drawable_star.png.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/drawable/star.png"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/layout_ads_nativ_fb_small.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/layout/ads_nativ_fb_small.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/layout_activity_ads_splash.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/layout/activity_ads_splash.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/drawable_i_ads_close.png.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/drawable/i_ads_close.png"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/layout_ads_nativ_fb.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/layout/ads_nativ_fb.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/layout_cust_appopen.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/layout/cust_appopen.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/drawable_newappdialog.png.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/drawable/newappdialog.png"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/drawable_ic_download.png.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/drawable/ic_download.png"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.pesonal.adsdk.app-pngs-28:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/layout_cust_banner.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/layout/cust_banner.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/drawable_install_btn_extra_dul.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/drawable/install_btn_extra_dul.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/layout_ads_native_placeholder.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/layout/ads_native_placeholder.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/layout_ad_progress_dialog.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/layout/ad_progress_dialog.xml"
+    },
+    {
+        "merged": "com.pesonal.adsdk.app-merged_res-33:/drawable_ad_coich_fb_bg.xml.flat",
+        "source": "com.pesonal.adsdk.app-main-35:/drawable/ad_coich_fb_bg.xml"
+    }
+]
