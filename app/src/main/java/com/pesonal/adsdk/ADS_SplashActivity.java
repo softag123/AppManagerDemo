@@ -145,7 +145,7 @@ public class ADS_SplashActivity extends AppCompatActivity {
             bytemode = bytemode + "v1/get_app.php";
 
         } catch (Exception e) {
-            e.printStackTrace();
+//            e.printStackTrace();
         }
 
 
